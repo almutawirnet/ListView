@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">دستور المملكة المغربية</string>
+    <string name="row_txt">row_txt</string>
+    <string name="stories_names">stories_names</string>
+
+    <string-array name="stories_names">
+        <item>تصدير</item>
+        <item>الباب الأول - أحكام عامة</item>
+        <item>الباب الثاني - الحريات والحقوق الأساسية</item>
+        <item>الباب الثالث - الملكية</item>
+        <item>الباب الرابع - السلطة التشريعية</item>
+        <item>الباب الخامس - السلطة التنفيذية</item>
+        <item>الباب السادس - العلاقات بين السلط</item>
+        <item>الباب السابع - السلطة القضائية</item>
+        <item>الباب الثامن - المحكمة الدستورية</item>
+        <item>الباب التاسع - الجهات والجماعات الترابية الأخرى</item>
+        <item>الباب العاشر - المجلس الأعلى للحسابات</item>
+        <item>الباب الحادي عشر - المجلس الاقتصادي والاجتماعي والبيئي</item>
+        <item>الباب الثاني عشر - الحكامة الجيدة</item>
+        <item>الباب الثالث عشر - مراجعة الدستور</item>
+        <item>الباب الرابع عشر - أحكام انتقالية وختامية</item>
+    </string-array>
+</resources>
